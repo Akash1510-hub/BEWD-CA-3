@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Akash1510-hub/BEWD-CA-3#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^5.1.0"
   }
 }
